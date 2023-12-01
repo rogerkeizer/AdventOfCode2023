@@ -126,8 +126,6 @@ internal class Program
                     }
                 }
 
-                Console.WriteLine($"{digit[0]}{digit[^1]} - {r}");
-
                 star2 += Convert.ToInt32($"{digit[0]}{digit[^1]}");
             }
         }
